@@ -1,3 +1,14 @@
+Scan an excel file(xls/xlsx) where 2 colums <x> and <y> 
+are defined as:
+<x> file
+<y> person to assign the <x> file
+
+The script will then search files the files on system and 
+copy the files to clipboard so that it can be pasted to the 
+desired location
+
+this will be done for every unique <y> person
+
 See REQUIREMENTS
 
 1. Download Python - execute "download-python" script in folder
