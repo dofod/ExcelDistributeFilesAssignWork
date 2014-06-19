@@ -1,0 +1,37 @@
+See REQUIREMENTS
+
+1. Download Python - execute "download-python" script in folder
+2. Install Python and install other dependancies from the REQUIREMENTS file
+3. Move the excel sheet to the program folder
+3. Run the program - execute "run" script
+4. Enter Filename ( for example "file.xlsx" for a file named file.xlsx)
+5. Enter Column where the files are listed ( for example 'a' for 1st Column )
+6. Enter Column where persons are listed ( for example 'b' for 2nd Column )
+7. Enter Drive where the files could be located ( for example 'C' for C drive)
+8. Script will scan for files and when done for the 1st person, results will be copied to the clipboard
+9. Paste the results in the desired location and press enter
+
+Sample Output:
+Enter Excel Filename==>
+file.xlsx
+Enter Column To Scan For Filenames==>
+a
+Enter Column To Scan For Persons Assigned Work==>
+b
+Enter Drive To Search For File==>
+D
+
+Searching For Files To Be Assigned To aaa
+"C:\Users\Saurabh\Desktop\Scrap.txt"
+Paste The Files, Press ENTER When Done
+
+Searching For Files To Be Assigned To bbb
+
+No Files Found
+Paste The Files, Press ENTER When Done
+
+Searching For Files To Be Assigned To ccc
+"C:\Users\Saurabh\Desktop\Scrap.txt" "C:\Windows\WinSxS\amd64_microsoft-windows-
+printing-spooler-core_31bf3856ad364e35_6.2.9200.16384_none_2f154a864b4cfb0d\splw
+ow64.exe" "C:\Windows\splwow64.exe"
+Paste The Files, Press ENTER When Done

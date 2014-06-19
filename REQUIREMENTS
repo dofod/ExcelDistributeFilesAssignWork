@@ -1,0 +1,8 @@
+python <=2.7
+	python.org
+xlrd library
+	https://pypi.python.org/pypi/xlrd
+pywin32 library
+	http://www.mirrorservice.org/sites/downloads.sourceforge.net/p/py/pywin32/pywin32/Build%20219
+Java JRE:
+	http://www.oracle.com/technetwork/java/javase/downloads/index.html

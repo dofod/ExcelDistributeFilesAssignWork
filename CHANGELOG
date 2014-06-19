@@ -1,0 +1,12 @@
+19/06/2014 10:06am
+*Assuming every file in column <x> has been assigned to a person in column <y>
+ ie. every value in <x> has non-empty corresponding value in <y>
+*ADDED support for assigning work for persons in specified column
+*REMOVED GUI for selecting files
+*ADDED auto-copy to windows clipboard the search results for work assigned to a person
+*DEPENDANCIES added .NET Framework 4.0 and pywin32, see instructions for the links
+
+19/06/2014 11:50am
+*REMOVED .NET File2Clip version
+*ADDED java File2Clip
+*DEPENDANCIES added Java Runtime http://www.oracle.com/technetwork/java/javase/downloads/index.html
